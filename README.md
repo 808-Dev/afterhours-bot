@@ -1,4 +1,4 @@
-<h1>Afterhours API (not really but go off)</h1>
+<h1>Afterhours API 5.0 (not really an API but go off I guess.)</h1>
 <body>
 Afterhours is a script that is meant to post images to Twitter automatically. It runs with other scripts so as to make itself self sustainable. 
 When the image database is considered empty it will refresh it with new images from reddit where you find you can find your dank may mays or 
