@@ -54,7 +54,7 @@ Just type in <code>python3 ./bot.py</code> and the bot will automatically send y
 while depending on how many subreddits you entered, butit  should only request a reboot and start back up again to allow the bot to post.
 
 
-<h1>Built In Samba Drive</h1>
+<h1>Built-In Samba Drive</h1>
 <br>
 This feature is meant to allow you to maintain what is on your pi while it powered on. You will have access to the filesystem, the content (images), bot files, and permissions.
 The password for the '<code>root</code>' and '<code>pi</code>' is <code>0000</code>. You can disable it by going into the permissions folder and replacing the '<code>smb.conf</code>' with the '<code>lockdown</code>' file provided.
