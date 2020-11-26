@@ -27,13 +27,3 @@ Finally, the last thing you will have to do is edit the <code>message.txt</code>
 <br>
 After all that, you are now free to start the bot by entering this command into the command line: <code>python3 bot.py</code>
 The system will restart when completed, and will send you back to the login screen. (If you don't want to have to restart the bot manually everytime you turn the system on, add the command to the end of the </code>.bashrc</code> file in your user directory.)
-<h1>Starting The Bot</h1>
-<br>
-Just type in <code>python3 ./bot.py</code> and the bot will automatically send you a DM stating it is up and is downloading content. This will take a
-while depending on how many subreddits you entered, but it should only request a reboot and start back up again to allow the bot to post.
-
-
-<h1>Built-In Samba Drive</h1>
-<br>
-This feature is meant to allow you to maintain what is on your pi while it powered on. You will have access to the filesystem, the content (images), bot files, and permissions.
-The password for the '<code>root</code>' and '<code>pi</code>' is <code>0000</code>. You can disable it by going into the permissions folder and replacing the '<code>smb.conf</code>' with the '<code>lockdown</code>' file provided.
