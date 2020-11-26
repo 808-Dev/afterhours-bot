@@ -1,8 +1,6 @@
-<h1>Afterhours API 5.0 (not really an API but go off I guess.)</h1>
+<h1>Afterhours-bot 5.0</h1>
 <body>
-Afterhours is a script that is meant to post images to Twitter automatically. It runs with other scripts so as to make itself self sustainable. 
-When the image database is considered empty it will refresh it with new images from reddit where you find you can find your dank may mays or 
-hentai or whatever you jerk off to and repost it to the specific account that you have set up to post them along with the original author. 
+Afterhours is a batch of scripts that are meant to post images to Twitter automatically. They work together to make the bot sustain a good flow of content to your audience. When the content runs out, the bot will download more and delete unneeded content from itself. (bad explaination but nobody looks at this so you get what you get.)
 <br>
   <h1>Prerequisites</h1>
   1. Raspberry Pi (Unless you have unlimited systems to waste money on)
