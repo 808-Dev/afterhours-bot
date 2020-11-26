@@ -1,9 +1,0 @@
-This is obviously a buggy mess but yeah... I don't have anything else to add sorry.
-I'll add a setup api when I can but at the moment all you need to do is check the config
-and keys file. Paste the keys in this order:
-api key
-api secret
-api access token
-api secret token
-It should work from there.
-Also thank you to Saucecode for the open source reddit ripper.
