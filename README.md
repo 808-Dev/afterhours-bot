@@ -12,7 +12,7 @@ Afterhours is a batch of scripts that are meant to post images to Twitter automa
 <hr>
 Installing this sucker is pretty easy if you already know a bit of linux. 
 Make sure you install the required apps in order to get it running.
-<code>sudo apt update && sudo apt install python3 python3-pip -y && pip install tweepy requests</code>
+<code>sudo apt update && sudo apt install python3 python3-pip -y && pip3 install tweepy && pip3 install requests</code>
   <br>
 You will also want to install a ripper for the bot to use. The one I use (and that the bot has built in support for) can be found here: <a href="https://github.com/thisisppn/reddit-media-downloader">https://github.com/thisisppn/reddit-media-downloader</a>. Just copy it to the main folder that <code>bot.py</code> is located in, and you will be good to go. Otherwise you may need to edit the <code>download_command</code> variable to support what you are using.
 <h1>Setup</h1>
