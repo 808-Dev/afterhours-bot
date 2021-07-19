@@ -1,4 +1,4 @@
-<h1>Afterhours-bot 5.0 (No longer being developed)</h1>
+<h1>Afterhours-bot 5.0 [deprecated]</h1>
 <body>
 Afterhours is a batch of scripts that are meant to post images to Twitter automatically. They work together to make the bot sustain a good flow of content to your audience. When the content runs out, the bot will download more and delete unneeded content from itself. (bad explaination but nobody looks at this so you get what you get.)
 <br>
